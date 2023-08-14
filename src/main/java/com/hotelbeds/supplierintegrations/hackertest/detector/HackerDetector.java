@@ -1,4 +1,4 @@
-package com.hotelbeds.hackertest.detector;
+package com.hotelbeds.supplierintegrations.hackertest.detector;
 
 public interface HackerDetector {
     String parseLine(String line);

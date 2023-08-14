@@ -1,0 +1,7 @@
+80.238.9.179,{{unorderedEpoch}}05,SIGNIN_FAILURE,Will.Smith
+80.238.9.179,{{unorderedEpoch}}02,SIGNIN_FAILURE,Will.Smith
+80.238.9.179,{{unorderedEpoch}}04,SIGNIN_FAILURE,Will.Smith
+80.238.9.180,4400,SIGNIN_SUCCESS,John.Doe
+80.238.9.179,{{unorderedEpoch}}01,SIGNIN_FAILURE,Will.Smith
+80.238.9.180,3000,SIGNIN_SUCCESS,John.Doe
+80.238.9.179,{{unorderedEpoch}}03,SIGNIN_FAILURE,Will.Smith
